@@ -1,0 +1,16 @@
+div {
+    width: 280px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50px;
+    margin: 50px auto;
+    background-image: url("../../007_tag_attributes/02_image_element/puppy.jpg ");
+    display: inline-block;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    border: 20px groove red
+}
+
+.second {
+    box-sizing: border-box;
+}
