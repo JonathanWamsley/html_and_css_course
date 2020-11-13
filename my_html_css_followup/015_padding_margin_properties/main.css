@@ -1,0 +1,36 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../007_tag_attributes/02_image_element/puppy.jpg");
+    /* background-size: cover; */
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+}
+
+img {
+    border: groove 40px orangered;
+    border-radius: 100%;
+    padding: 40px;
+    margin: 40px;
+}
+
+.one {
+    border: dashed 30px yellowgreen;
+    padding: 30px;
+    margin: 30px;
+}
+
+.two {
+    border: dotted 20px cyan;
+    padding: 20px;
+    margin: 20px;
+}
+
+.three {
+    border: double 10px dodgerblue;
+    padding: 10px;
+    margin: 10px;
+}
