@@ -1,0 +1,21 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+img {
+    border: groove 40px orangered;
+}
+
+.one {
+    border: dashed 30px yellowgreen;
+}
+
+.two {
+    border: dotted 20px cyan;
+}
+
+.three {
+    border: double 10px dodgerblue;
+}
