@@ -1,0 +1,23 @@
+body {
+    font-size: 36px;
+}
+
+li:first-child {
+    color: red;
+}
+
+li:last-child {
+    color: aqua;
+}
+
+li:nth-child(even) {
+    color: blueviolet;
+}
+
+tr:nth-child(even) {
+    background-color: antiquewhite;
+}
+
+tr:nth-child(odd) {
+    background-color: darkseagreen;
+}
