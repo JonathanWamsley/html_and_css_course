@@ -1,0 +1,39 @@
+div {
+    display: inline-block;
+}
+
+#inner_frame {
+    background-color: rgb(19, 145, 19);
+    height: 900px;
+    align-content: center;
+    margin-left: 255px;
+    margin-right: 650px;
+    border: 10px solid black;
+    padding: 100px;
+}
+
+#outer_frame {
+    background-color: darkblue;
+    height: 1200px;
+    
+}
+
+img {
+    height: 300px;
+    width: 500px;   
+    border: 30px ridge yellow;
+    border-radius: 100%;
+}
+
+#first_header {
+    color: blue;
+}
+
+#second_header {
+    color: red;
+}
+
+p {
+    font-size: 15px;
+    color: black;
+}
