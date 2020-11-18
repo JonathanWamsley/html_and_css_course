@@ -1,0 +1,8 @@
+ul {
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+a {
+    padding: 1em;
+}
