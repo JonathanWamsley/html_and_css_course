@@ -1,0 +1,16 @@
+.c1 {
+    background-color: darkblue;
+}
+
+.c2 {
+    background-color: blue;
+}
+
+.c3 {
+    background-color: rgb(63, 155, 197);
+}
+
+.content {
+    border: 5px solid red;
+    box-sizing: border-box;
+}
